@@ -1,5 +1,11 @@
-# Virtual env.
+# Виртуальное окружение.
 venv
 
 # Byte code.
 __pycache__
+
+# bat file windows.
+five_nights_bot_start.bat
+
+# DB.
+game.db
